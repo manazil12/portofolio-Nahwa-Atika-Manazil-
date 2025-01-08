@@ -1,0 +1,128 @@
+*
+{
+  margin : 0;
+  padding:0;
+  box-sizing: border-box;
+  outline: 8px;;
+  border:none;
+  text-decoration: 0;
+}
+.header{
+  background-color: #96c6a8;
+  color: #95a37f;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+body {
+  margin-top: 80px; 
+}
+.text-box {
+  background-color: #f8f9fa;
+  padding: 20px; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+  body {
+    margin-top: 80px; 
+  }
+  .text-box {
+    background-color: #cfe189; 
+    padding: 20px; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  h1 {
+    margin-bottom: 40px; 
+    font-size: 2.5rem; 
+    font-weight: bold;
+    color: #495057; 
+  }
+  
+  .navbar {
+    background-color: #95a37f;
+  }
+  
+  .jumbotron {
+    padding: 10rem 1rem;
+    background-color: #b4b792;
+    color: #fff;
+  }
+  
+  .jumbotron img {
+    border: 5px solid #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .jumbotron h1 {
+    font-size: 2.5rem;
+    margin-top: 1rem;
+  }
+  
+  .about-section {
+    padding: 4rem 1rem;
+    background-color: #b4b792;
+  }
+
+    about-content {
+      display: flex;
+      justify-content: space-around;
+      gap: 20px;
+    }
+
+    about-content {
+      display: flex;
+      justify-content: space-around;
+      gap: 20px;
+    }
+  
+
+  
+  .gallery {
+    background-color: #b4b792
+    padding: 4rem 1rem;
+  }
+  
+  .gallery img {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact {
+    background-color: #eef2f3;
+    padding: 4rem 1rem;
+  }
+  
+  .contact form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+
+  .contact .btn {
+    background-color: #77815c;
+    border: none;
+    color: white;
+  }
+
+  .contact .btn:hover {
+    background-color: #5d6b48;
+  }
+  form button.btn-primary {
+    background-color: #77815c !important; /* Warna sage */
+  }
+  
+  footer {
+    background-color: #b4b792;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
